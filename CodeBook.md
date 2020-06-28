@@ -8,7 +8,7 @@
   Name of the Dataset is getdata-projectiles-UCI HAR Dataset.
   In the dataset files, it contains two folder (train, test) and  text files (activity labels, features, features info, and README)
   In the train and test folder, it contains data named subject_train, x_train, y_train, subject_test, x_test, y_test.
-  Based on [README.md], our job is to merge those data and measure the values.
+  Based on [README.md](https://github.com/DongjunCho/Cleaning_Data_Course_Project_Coursera/blob/master/README.md), our job is to merge those data and measure the values.
 
 ## Items under text files : activity labels
 1. WALKING
